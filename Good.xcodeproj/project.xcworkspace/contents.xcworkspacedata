@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../Desktop/Test.realcode2/Test.realcode2.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:../../../../Desktop/Test.realcode2"
+      name = "Test.realcode2">
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
